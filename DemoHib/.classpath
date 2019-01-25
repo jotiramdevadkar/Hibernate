@@ -60,5 +60,7 @@
 	<classpathentry kind="lib" path="G:/Ms_Data/jar files/hibernate jars/spring-2.5.jar"/>
 	<classpathentry kind="lib" path="G:/Ms_Data/jar files/hibernate jars/staxmapper-1.1.0.Final.jar"/>
 	<classpathentry kind="lib" path="G:/Ms_Data/jar files/mysql-connector/mysql-connector-java-5.1.13-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sandip/Downloads/hibernate-ehcache-4.1.9.final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sandip/Downloads/ehcache-3.6.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
